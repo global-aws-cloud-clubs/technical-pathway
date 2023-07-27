@@ -9,7 +9,7 @@
     <script type="text/javascript" language="javascript" src="club-path.json"></script>
     
     <script type="text/javascript">
-        $.getJSON("whitney.json", function (data) {
+        $.getJSON("club-path.json", function (data) {
                 var timeline_json = data;
             window.timeline = new TL.Timeline('timeline-embed', timeline_json);
             });
