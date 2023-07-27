@@ -1,7 +1,7 @@
 {
 	"title": {
 		"media": {
-			"url": "/images/logo.jpeg",
+			"url": "/technical-pathway/images/logo.jpeg",
 			"caption": "A Year of Cloud Club Activities",
 			"credit": "by AWS Academic Advocacy in Developer Relations"
 		},
@@ -13,7 +13,7 @@
 	"events": [
 		{
 			"media": {
-				"url": "/images/slides.png"
+				"url": "/technical-pathway/images/slides.png"
 			},
 			"start_date": {
 				"month": "1",
@@ -26,7 +26,7 @@
 		},
 		{
 			"media": {
-				"url": "/images/speaker.png"
+				"url": "/technical-pathway/images/speaker.png"
 			},
 			"start_date": {
 				"month": "2",
