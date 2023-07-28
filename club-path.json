@@ -36,6 +36,136 @@
 				"headline": "February",
 				"text": "<p>In your second month's meeting, invite an AWS speaker to speak at your club <a href=https://www.pulse.aws/survey/RRYCSCXP>using this form</a></p>"
 			}
+		},
+		{
+			"media": {
+				"url": "/technical-pathway/images/cloud-quest.png"
+			},
+			"start_date": {
+				"month": "3",
+				"year": "2023"
+			},
+			"text": {
+				"headline": "March",
+				"text": "<p>Get together for a Cloud Quest tournament. Cloud Quest Cloud Practitioner is a free gamified experience on Skill Builder. You can host a Cloud Quest tournament for your Club. Take a look at<a href=https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner> Cloud Quest</a></p>"
+			}
+		},
+		{
+			"media": {
+				"url": "/technical-pathway/images/thinking.png"
+			},
+			"start_date": {
+				"month": "4",
+				"year": "2023"
+			},
+			"text": {
+				"headline": "April",
+				"text": "<p>It's time for Camp! Ask us to provision a Camp experience for your Club, and have the opportunity to earn cool NFTs! <a href=https://s12d.com/infra-camp>Preview Infrastructure Camp here</a></p>"
+			}
+		},
+		{
+			"media": {
+				"url": "/technical-pathway/images/web.png"
+			},
+			"start_date": {
+				"month": "5",
+				"year": "2023"
+			},
+			"text": {
+				"headline": "May",
+				"text": "<p>Do a workshop together as a Club. We've built one just for you, to teach web development and serverless technologies. Ask us to provision our <a href=https://s12d.com/amplify-workshop>Amplify Workshop</a> for your Club.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "/technical-pathway/images/resume.jpg"
+			},
+			"start_date": {
+				"month": "6",
+				"year": "2023"
+			},
+			"text": {
+				"headline": "June",
+				"text": "<p>Gather together for resume reviews. Fill out <a href=https://www.pulse.aws/survey/CAGXG8K2>this form</a> to organize a panel of AWS employees to look at your Club members' resume or LinkedIn profiles and give feedback. <a href=https://www.flickr.com/photos/137115673@N06/22183023433/>image credit</a></p>"
+			}
+		},
+		{
+			"media": {
+				"url": "/technical-pathway/images/cards.png"
+			},
+			"start_date": {
+				"month": "7",
+				"year": "2023"
+			},
+			"text": {
+				"headline": "July",
+				"text": "<p>Use your Builder Cards to host a game night. Builder Cards are part of your Club's 'Club Swag' pack and are a cool game to play together to learn about architecting in the Cloud. <a href=https://aws.amazon.com/gametech/buildercards/>Learn more here</a></p>"
+			}
+		},
+		{
+			"media": {
+				"url": "/technical-pathway/images/exam.png"
+			},
+			"start_date": {
+				"month": "8",
+				"year": "2023"
+			},
+			"text": {
+				"headline": "August",
+				"text": "<p>Do an Exam Cram, and prepare your Club members to take the <a href=https://explore.skillbuilder.aws/learn/course/external/view/elearning/16434/exam-prep-standard-course-aws-certified-cloud-practitioner-clf-c02-english>AWS Cloud Practitioner</a> or <a href=https://explore.skillbuilder.aws/learn/course/external/view/elearning/14760/exam-prep-aws-certified-solutions-architect-associate-saa-c03>Solutions Architect Exam</a> using free Skill Builder courses. Ask us about getting vouchers.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "/technical-pathway/images/deep-racer.png"
+			},
+			"start_date": {
+				"month": "9",
+				"year": "2023"
+			},
+			"text": {
+				"headline": "September",
+				"text": "<p>Gather with your Club for a <a href=https://student.deepracer.com/>Deep Racer Student League</a> Tournament. Deep Racer Student League allows you to learn about Reinforcement Leaerning and race cars as a League, all online.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "/technical-pathway/images/mlu.png"
+			},
+			"start_date": {
+				"month": "10",
+				"year": "2023"
+			},
+			"text": {
+				"headline": "October",
+				"text": "<p>Hold a Machine Learning Watch Party, perhaps partnering with another Club. MLU has a YouTube Channel with dozens of high quality <a href=https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw>videos</a> - learn together with MLU!</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "/technical-pathway/images/smsl.png"
+			},
+			"start_date": {
+				"month": "11",
+				"year": "2023"
+			},
+			"text": {
+				"headline": "November",
+				"text": "<p>Pick a notebook and run it together on <a href=https://studiolab.sagemaker.aws/>SageMaker Studio Lab</a>. This environment allows you to run Jupyter notebooks for free, in the cloud.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "/technical-pathway/images/community.png"
+			},
+			"start_date": {
+				"month": "12",
+				"year": "2023"
+			},
+			"text": {
+				"headline": "December",
+				"text": "<p>Walk through any tutorial on <a href=https://community.aws>community.aws</a> together as a club and host an end-of-the-year party! You can also do a re:Invent re:Cap activity, watching the videos from the re:Invent conference as a Club.</p>"
+			}
 		}
 		
 	]
