@@ -6,8 +6,8 @@
 			"credit": "by AWS Academic Advocacy in Developer Relations"
 		},
 		"text": {
-			"headline": "A Year of Cloud Club Activities",
-			"text": "<p>A timeline of how you can build your club</p>"
+			"headline": "A Year of Cloud Club Activities for Cloud Club Captains",
+			"text": "<p>A timeline of how you can build your AWS Cloud Club</p>"
 		}
 	},
 	"events": [
@@ -21,7 +21,7 @@
 			},
 			"text": {
 				"headline": "January",
-				"text": "<p>In your first meeting, use these slides to demonstrate your club's capability. Be sure to invite someone from Academic Advocacy to this event if it's online!</p><p>Download them from the <a href=https://amazoncorporate.box.com/s/mbzo0zwd1895cw81qe1xudkelxhdqk29>Captain's Library on Box.com</a></p>"
+				"text": "<p>In your first meeting, use these slides to demonstrate your club's capability. Be sure to invite someone from Academic Advocacy to this event if it's online!</p><p>Download them from the <a href=https://amazoncorporate.box.com/s/mbzo0zwd1895cw81qe1xudkelxhdqk29>Captain's Library on Box.com</a>.</p>"
 			}
 		},
 		{
@@ -34,7 +34,7 @@
 			},
 			"text": {
 				"headline": "February",
-				"text": "<p>In your second month's meeting, invite an AWS speaker to speak at your club <a href=https://www.pulse.aws/survey/RRYCSCXP>using this form</a></p>"
+				"text": "<p>In your second month's meeting, invite an AWS speaker to speak at your Club <a href=https://www.pulse.aws/survey/RRYCSCXP>using this form</a>.</p>"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			},
 			"text": {
 				"headline": "March",
-				"text": "<p>Get together for a Cloud Quest tournament. Cloud Quest Cloud Practitioner is a free gamified experience on Skill Builder. You can host a Cloud Quest tournament for your Club. Take a look at<a href=https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner> Cloud Quest</a></p>"
+				"text": "<p>Get together for a Cloud Quest tournament. Cloud Quest Cloud Practitioner is a free gamified experience on Skill Builder. You can host a Cloud Quest tournament for your Club. Take a look at<a href=https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner> Cloud Quest</a>.</p>"
 			}
 		},
 		{
@@ -60,7 +60,7 @@
 			},
 			"text": {
 				"headline": "April",
-				"text": "<p>It's time for Camp! Ask us to provision a Camp experience for your Club, and have the opportunity to earn cool NFTs! <a href=https://s12d.com/infra-camp>Preview Infrastructure Camp here</a></p>"
+				"text": "<p>It's time for Camp! Ask us to provision a Camp experience for your Club, and have the opportunity to earn cool NFTs! <a href=https://s12d.com/infra-camp>Preview the Infrastructure Camp</a>.</p>"
 			}
 		},
 		{
@@ -86,7 +86,7 @@
 			},
 			"text": {
 				"headline": "June",
-				"text": "<p>Gather together for resume reviews. Fill out <a href=https://www.pulse.aws/survey/CAGXG8K2>this form</a> to organize a panel of AWS employees to look at your Club members' resume or LinkedIn profiles and give feedback. <a href=https://www.flickr.com/photos/137115673@N06/22183023433/>image credit</a></p>"
+				"text": "<p>Gather together for resume reviews. Fill out <a href=https://www.pulse.aws/survey/CAGXG8K2>this form</a> to organize a panel of AWS employees to look at your Club members' resume or LinkedIn profiles and give feedback. <a href=https://www.flickr.com/photos/137115673@N06/22183023433/>Image credit</a>.</p>"
 			}
 		},
 		{
@@ -99,7 +99,7 @@
 			},
 			"text": {
 				"headline": "July",
-				"text": "<p>Use your Builder Cards to host a game night. Builder Cards are part of your Club's 'Club Swag' pack and are a cool game to play together to learn about architecting in the Cloud. <a href=https://aws.amazon.com/gametech/buildercards/>Learn more here</a></p>"
+				"text": "<p>Use your Builder Cards to host a game night. Builder Cards are part of your Club's 'Club Swag' pack and are a cool deckbuilding game to play together to learn about architecting in the Cloud. <a href=https://aws.amazon.com/gametech/buildercards/>Learn more about Builder Cards</a>.</p>"
 			}
 		},
 		{
@@ -151,7 +151,7 @@
 			},
 			"text": {
 				"headline": "November",
-				"text": "<p>Pick a notebook and run it together on <a href=https://studiolab.sagemaker.aws/>SageMaker Studio Lab</a>. This environment allows you to run Jupyter notebooks for free, in the cloud.</p>"
+				"text": "<p>Pick a notebook and run it together on <a href=https://studiolab.sagemaker.aws/>SageMaker Studio Lab</a>. This environment allows you to run Jupyter notebooks for free, in the Cloud.</p>"
 			}
 		},
 		{
