@@ -60,7 +60,7 @@
 			},
 			"text": {
 				"headline": "April",
-				"text": "<p>It's time for Camp! Ask us to provision a Camp experience for your Club, and have the opportunity to earn a badge! <a href=https://s12d.com/infra-camp>Preview the Infrastructure Camp</a>.</p>"
+				"text": "<p>It's time for Camp! Ask us to provision a Camp experience for your Club, and have the opportunity to earn a badge! <a href=https://s12d.com/infra-camp>Preview the Infrastructure Camp</a>, the <a href=https://s12d.com/mlapi-camp>MLAPI Camp</a>, or the <a href=https://s12d.com/amplify-camp>Amplify Serverless Camp</a>.</p>"
 			}
 		},
 		{
@@ -73,7 +73,7 @@
 			},
 			"text": {
 				"headline": "May",
-				"text": "<p>Do a workshop together as a Club. We've built one just for you, to teach web development and serverless technologies. Ask us to provision our <a href=https://s12d.com/amplify-workshop>Amplify Workshop</a> for your Club.</p>"
+				"text": "<p>Try a hands-on activity using the free resources in <a href=https://aws.amazon.com/education/awseducate/?pg=wpt&refid=ba_buildonaws_q4_18_direct&trkcampaign=buildonaws>AWS Educate</a>.</p>"
 			}
 		},
 		{
@@ -99,7 +99,7 @@
 			},
 			"text": {
 				"headline": "July",
-				"text": "<p>Use your Builder Cards to host a game night. Builder Cards are part of your Club's 'Club Swag' pack and are a cool deckbuilding game to play together to learn about architecting in the Cloud. <a href=https://aws.amazon.com/gametech/buildercards/>Learn more about Builder Cards</a>.</p>"
+				"text": "<p>Use your Club's Builder Cards to host a game night. Builder Cards are part of your Club's 'Club Swag' pack and are a cool deckbuilding game to play together to learn about architecting in the Cloud. <a href=https://aws.amazon.com/gametech/buildercards/>Learn more about Builder Cards</a>.</p>"
 			}
 		},
 		{
