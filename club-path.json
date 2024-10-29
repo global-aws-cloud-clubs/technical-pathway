@@ -7,7 +7,7 @@
 		},
 		"text": {
 			"headline": "A Year of Cloud Club Activities for Cloud Club Captains",
-			"text": "<p>A timeline of how you can build your AWS Cloud Club</p>"
+			"text": "<p>A timeline with activities to do in your AWS Cloud Club</p>"
 		}
 	},
 	"events": [
@@ -17,7 +17,7 @@
 			},
 			"start_date": {
 				"month": "1",
-				"year": "2024"
+				"year": "2025"
 			},
 			"text": {
 				"headline": "January",
@@ -30,7 +30,7 @@
 			},
 			"start_date": {
 				"month": "2",
-				"year": "2024"
+				"year": "2025"
 			},
 			"text": {
 				"headline": "February",
@@ -43,7 +43,7 @@
 			},
 			"start_date": {
 				"month": "3",
-				"year": "2024"
+				"year": "2025"
 			},
 			"text": {
 				"headline": "March",
@@ -56,7 +56,7 @@
 			},
 			"start_date": {
 				"month": "4",
-				"year": "2024"
+				"year": "2025"
 			},
 			"text": {
 				"headline": "April",
@@ -69,7 +69,7 @@
 			},
 			"start_date": {
 				"month": "5",
-				"year": "2024"
+				"year": "2025"
 			},
 			"text": {
 				"headline": "May",
@@ -82,7 +82,7 @@
 			},
 			"start_date": {
 				"month": "6",
-				"year": "2024"
+				"year": "2025"
 			},
 			"text": {
 				"headline": "June",
@@ -95,11 +95,11 @@
 			},
 			"start_date": {
 				"month": "7",
-				"year": "2024"
+				"year": "2025"
 			},
 			"text": {
 				"headline": "July",
-				"text": "<p>Use your Club's Builder Cards to host a game night. Builder Cards are part of your Club's 'Club Swag' pack and are a cool deckbuilding game to play together to learn about architecting in the Cloud. <a href=https://aws.amazon.com/gametech/buildercards/>Learn more about Builder Cards</a>.</p>"
+				"text": "<p>Try Card Clash for free, an architectural building game to host a game night. Play together to learn about architecting in the Cloud. <a href=https://explore.skillbuilder.aws/learn/course/external/view/elearning/17564/aws-card-clash-an-architecture-design-game/>Learn more about AWS Card Clash</a>.</p>"
 			}
 		},
 		{
@@ -108,7 +108,7 @@
 			},
 			"start_date": {
 				"month": "8",
-				"year": "2024"
+				"year": "2025"
 			},
 			"text": {
 				"headline": "August",
@@ -121,7 +121,7 @@
 			},
 			"start_date": {
 				"month": "9",
-				"year": "2024"
+				"year": "2025"
 			},
 			"text": {
 				"headline": "September",
@@ -134,7 +134,7 @@
 			},
 			"start_date": {
 				"month": "10",
-				"year": "2024"
+				"year": "2025"
 			},
 			"text": {
 				"headline": "October",
@@ -147,7 +147,7 @@
 			},
 			"start_date": {
 				"month": "11",
-				"year": "2024"
+				"year": "2025"
 			},
 			"text": {
 				"headline": "November",
@@ -160,7 +160,7 @@
 			},
 			"start_date": {
 				"month": "12",
-				"year": "2024"
+				"year": "2025"
 			},
 			"text": {
 				"headline": "December",
